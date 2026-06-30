@@ -1,0 +1,20 @@
+[submodule "meetbowl-fe"]
+	path = meetbowl-fe
+	url = https://github.com/beyond-sw-camp/be25-fin-thanos-meetbowl-fe.git
+	branch = main
+[submodule "meetbowl-be"]
+	path = meetbowl-be
+	url = https://github.com/beyond-sw-camp/be25-fin-thanos-meetbowl-be.git
+	branch = main
+[submodule "meetbowl-stt"]
+	path = meetbowl-stt
+	url = https://github.com/beyond-sw-camp/be25-fin-thanos-meetbowl-stt.git
+	branch = main
+[submodule "meetbowl-infra"]
+	path = meetbowl-infra
+	url = https://github.com/beyond-sw-camp/be25-fin-thanos-meetbowl-infra.git
+	branch = main
+[submodule "meetbowl-ai"]
+	path = meetbowl-ai
+	url = https://github.com/beyond-sw-camp/be25-fin-thanos-meetbowl-ai.git
+	branch = main
