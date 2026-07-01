@@ -101,6 +101,9 @@
 | **CI / CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) |
 | **협업 도구** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) |
 
+## 6. 시스템 아키텍쳐
+<img width="1924" height="1324" alt="image" src="https://github.com/user-attachments/assets/bc5becdd-368c-47f2-875f-74d60a9ebbda" />
+
 
 ## 7. 데이터베이스 설계 (ERD)
 [ERD](https://www.erdcloud.com/d/yXrcCrnYFdM2P8q6b)
