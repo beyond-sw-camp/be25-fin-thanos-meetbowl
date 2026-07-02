@@ -114,7 +114,7 @@
 
 
 ## 8. 화면 기능 설계서
-[화면 기능 설계서](https://www.figma.com/design/HAyNurdsY2cy5S5nGAFhgZ/Meetbowl_%ED%99%94%EB%A9%B4-%EC%84%A4%EA%B3%84%EC%84%9C?node-id=0-1&t=EA6CCD1yU9dlcSUv-1)
+[화면 기능 설계서](https://www.figma.com/board/daSTynfA5bNxs7zU00zo6I/BeatBuddy-%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C?node-id=127-817&t=Lrm1j4z83LmRJ4TP-0)
 <br>
 
 
@@ -132,7 +132,6 @@
 [백엔드 단위 테스트 결과서](https://docs.google.com/spreadsheets/d/1nOWCJmpTlyvO9L5ES9-pbAvM8WLmR13WEBstjrw-yW8/edit?usp=sharing)
 <br>
 [프론트엔드 단위 테스트 결과서](https://docs.google.com/spreadsheets/d/1nOWCJmpTlyvO9L5ES9-pbAvM8WLmR13WEBstjrw-yW8/edit?usp=sharing)
-
 <br>
 
 ## 12. CI/CD 계획서
